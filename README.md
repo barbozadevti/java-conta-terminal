@@ -4,7 +4,7 @@
 
 Entrega do desafio de projeto **"Simulando uma Conta Bancária Através do Terminal/Console"**, da [DIO](https://www.dio.me), para praticar os fundamentos e a sintaxe do Java.
 
-> Versão ampliada para portfólio: **[barbozadevti/cofre](https://github.com/barbozadevti/cofre)**, um banco digital com API REST em Spring Boot, site, extrato, transferências e um modo terminal que continua este desafio.
+> Versão ampliada para portfólio: **[barbozadevti/cofre](https://github.com/barbozadevti/cofre)**, um banco digital completo em Spring Boot: Pix com QR Code, cheque especial, caixinhas, cartão virtual, perfis de cliente, caixa e gerente, e um terminal da agência que continua este desafio.
 
 ## O desafio
 
